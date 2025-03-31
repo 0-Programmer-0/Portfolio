@@ -1,12 +1,71 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Johns\\Documents\\Curso_ASP.NET\\DemoMVC\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Johns\\Documents\\Portfolio\\Curso_ASP.NET\\DemoMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{644898FC-EC20-479B-954F-422CC94A5137}|DemoMVC\\DemoMVC.csproj|c:\\users\\johns\\documents\\portfolio\\curso_asp.net\\demomvc\\demomvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{644898FC-EC20-479B-954F-422CC94A5137}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{644898FC-EC20-479B-954F-422CC94A5137}|DemoMVC\\DemoMVC.csproj|c:\\users\\johns\\documents\\portfolio\\curso_asp.net\\demomvc\\demomvc\\controllers\\alunoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{644898FC-EC20-479B-954F-422CC94A5137}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\controllers\\alunoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{644898FC-EC20-479B-954F-422CC94A5137}|DemoMVC\\DemoMVC.csproj|c:\\users\\johns\\documents\\portfolio\\curso_asp.net\\demomvc\\demomvc\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{644898FC-EC20-479B-954F-422CC94A5137}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Johns\\Documents\\Portfolio\\Curso_ASP.NET\\DemoMVC\\DemoMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DemoMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Johns\\Documents\\Portfolio\\Curso_ASP.NET\\DemoMVC\\DemoMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DemoMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T16:07:56.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AlunosController.cs",
+              "DocumentMoniker": "C:\\Users\\Johns\\Documents\\Portfolio\\Curso_ASP.NET\\DemoMVC\\DemoMVC\\Controllers\\AlunosController.cs",
+              "RelativeDocumentMoniker": "DemoMVC\\Controllers\\AlunosController.cs",
+              "ToolTip": "C:\\Users\\Johns\\Documents\\Portfolio\\Curso_ASP.NET\\DemoMVC\\DemoMVC\\Controllers\\AlunosController.cs",
+              "RelativeToolTip": "DemoMVC\\Controllers\\AlunosController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T16:05:56.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\Johns\\Documents\\Portfolio\\Curso_ASP.NET\\DemoMVC\\DemoMVC\\Models\\Aluno.cs",
+              "RelativeDocumentMoniker": "DemoMVC\\Models\\Aluno.cs",
+              "ToolTip": "C:\\Users\\Johns\\Documents\\Portfolio\\Curso_ASP.NET\\DemoMVC\\DemoMVC\\Models\\Aluno.cs",
+              "RelativeToolTip": "DemoMVC\\Models\\Aluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T16:01:52.806Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
