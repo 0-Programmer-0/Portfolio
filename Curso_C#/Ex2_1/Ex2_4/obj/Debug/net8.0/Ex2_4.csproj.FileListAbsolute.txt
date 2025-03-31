@@ -1,0 +1,14 @@
+C:\Users\Johns\Desktop\C#_Curso\Ex2_1\Ex2_4\bin\Debug\net8.0\Ex2_4.exe
+C:\Users\Johns\Desktop\C#_Curso\Ex2_1\Ex2_4\bin\Debug\net8.0\Ex2_4.deps.json
+C:\Users\Johns\Desktop\C#_Curso\Ex2_1\Ex2_4\bin\Debug\net8.0\Ex2_4.runtimeconfig.json
+C:\Users\Johns\Desktop\C#_Curso\Ex2_1\Ex2_4\bin\Debug\net8.0\Ex2_4.dll
+C:\Users\Johns\Desktop\C#_Curso\Ex2_1\Ex2_4\bin\Debug\net8.0\Ex2_4.pdb
+C:\Users\Johns\Desktop\C#_Curso\Ex2_1\Ex2_4\obj\Debug\net8.0\Ex2_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johns\Desktop\C#_Curso\Ex2_1\Ex2_4\obj\Debug\net8.0\Ex2_4.AssemblyInfoInputs.cache
+C:\Users\Johns\Desktop\C#_Curso\Ex2_1\Ex2_4\obj\Debug\net8.0\Ex2_4.AssemblyInfo.cs
+C:\Users\Johns\Desktop\C#_Curso\Ex2_1\Ex2_4\obj\Debug\net8.0\Ex2_4.csproj.CoreCompileInputs.cache
+C:\Users\Johns\Desktop\C#_Curso\Ex2_1\Ex2_4\obj\Debug\net8.0\Ex2_4.dll
+C:\Users\Johns\Desktop\C#_Curso\Ex2_1\Ex2_4\obj\Debug\net8.0\refint\Ex2_4.dll
+C:\Users\Johns\Desktop\C#_Curso\Ex2_1\Ex2_4\obj\Debug\net8.0\Ex2_4.pdb
+C:\Users\Johns\Desktop\C#_Curso\Ex2_1\Ex2_4\obj\Debug\net8.0\Ex2_4.genruntimeconfig.cache
+C:\Users\Johns\Desktop\C#_Curso\Ex2_1\Ex2_4\obj\Debug\net8.0\ref\Ex2_4.dll

@@ -1,0 +1,14 @@
+C:\Users\Johns\Desktop\C#_Curso\Secao6\Secao6\bin\Debug\net8.0\RefValor.exe
+C:\Users\Johns\Desktop\C#_Curso\Secao6\Secao6\bin\Debug\net8.0\RefValor.deps.json
+C:\Users\Johns\Desktop\C#_Curso\Secao6\Secao6\bin\Debug\net8.0\RefValor.runtimeconfig.json
+C:\Users\Johns\Desktop\C#_Curso\Secao6\Secao6\bin\Debug\net8.0\RefValor.dll
+C:\Users\Johns\Desktop\C#_Curso\Secao6\Secao6\bin\Debug\net8.0\RefValor.pdb
+C:\Users\Johns\Desktop\C#_Curso\Secao6\Secao6\obj\Debug\net8.0\RefValor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johns\Desktop\C#_Curso\Secao6\Secao6\obj\Debug\net8.0\RefValor.AssemblyInfoInputs.cache
+C:\Users\Johns\Desktop\C#_Curso\Secao6\Secao6\obj\Debug\net8.0\RefValor.AssemblyInfo.cs
+C:\Users\Johns\Desktop\C#_Curso\Secao6\Secao6\obj\Debug\net8.0\RefValor.csproj.CoreCompileInputs.cache
+C:\Users\Johns\Desktop\C#_Curso\Secao6\Secao6\obj\Debug\net8.0\RefValor.dll
+C:\Users\Johns\Desktop\C#_Curso\Secao6\Secao6\obj\Debug\net8.0\refint\RefValor.dll
+C:\Users\Johns\Desktop\C#_Curso\Secao6\Secao6\obj\Debug\net8.0\RefValor.pdb
+C:\Users\Johns\Desktop\C#_Curso\Secao6\Secao6\obj\Debug\net8.0\RefValor.genruntimeconfig.cache
+C:\Users\Johns\Desktop\C#_Curso\Secao6\Secao6\obj\Debug\net8.0\ref\RefValor.dll

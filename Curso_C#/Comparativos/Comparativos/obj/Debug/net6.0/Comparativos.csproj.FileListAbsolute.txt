@@ -1,0 +1,14 @@
+C:\Users\Johns\Desktop\C#_Curso\Comparativos\Comparativos\bin\Debug\net6.0\Comparativos.exe
+C:\Users\Johns\Desktop\C#_Curso\Comparativos\Comparativos\bin\Debug\net6.0\Comparativos.deps.json
+C:\Users\Johns\Desktop\C#_Curso\Comparativos\Comparativos\bin\Debug\net6.0\Comparativos.runtimeconfig.json
+C:\Users\Johns\Desktop\C#_Curso\Comparativos\Comparativos\bin\Debug\net6.0\Comparativos.dll
+C:\Users\Johns\Desktop\C#_Curso\Comparativos\Comparativos\bin\Debug\net6.0\Comparativos.pdb
+C:\Users\Johns\Desktop\C#_Curso\Comparativos\Comparativos\obj\Debug\net6.0\Comparativos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johns\Desktop\C#_Curso\Comparativos\Comparativos\obj\Debug\net6.0\Comparativos.AssemblyInfoInputs.cache
+C:\Users\Johns\Desktop\C#_Curso\Comparativos\Comparativos\obj\Debug\net6.0\Comparativos.AssemblyInfo.cs
+C:\Users\Johns\Desktop\C#_Curso\Comparativos\Comparativos\obj\Debug\net6.0\Comparativos.csproj.CoreCompileInputs.cache
+C:\Users\Johns\Desktop\C#_Curso\Comparativos\Comparativos\obj\Debug\net6.0\Comparativos.dll
+C:\Users\Johns\Desktop\C#_Curso\Comparativos\Comparativos\obj\Debug\net6.0\refint\Comparativos.dll
+C:\Users\Johns\Desktop\C#_Curso\Comparativos\Comparativos\obj\Debug\net6.0\Comparativos.pdb
+C:\Users\Johns\Desktop\C#_Curso\Comparativos\Comparativos\obj\Debug\net6.0\Comparativos.genruntimeconfig.cache
+C:\Users\Johns\Desktop\C#_Curso\Comparativos\Comparativos\obj\Debug\net6.0\ref\Comparativos.dll

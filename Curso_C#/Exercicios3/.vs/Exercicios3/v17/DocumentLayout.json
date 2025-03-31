@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Johns\\Desktop\\C#_Curso\\Exercicios3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA6A1291-158C-49A5-B0E7-515CBC18771D}|Ex3_3\\Ex3_3.csproj|c:\\users\\johns\\desktop\\c#_curso\\exercicios3\\ex3_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA6A1291-158C-49A5-B0E7-515CBC18771D}|Ex3_3\\Ex3_3.csproj|solutionrelative:ex3_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{799143A2-06C2-45E3-97CD-1D18C5B41E65}|Ex3_2\\Ex3_2.csproj|c:\\users\\johns\\desktop\\c#_curso\\exercicios3\\ex3_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{799143A2-06C2-45E3-97CD-1D18C5B41E65}|Ex3_2\\Ex3_2.csproj|solutionrelative:ex3_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F04354-FE29-4BF6-AE68-EB3E9C0C5FF1}|Exercicios3\\Ex3_1.csproj|c:\\users\\johns\\desktop\\c#_curso\\exercicios3\\exercicios3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F04354-FE29-4BF6-AE68-EB3E9C0C5FF1}|Exercicios3\\Ex3_1.csproj|solutionrelative:exercicios3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Johns\\Desktop\\C#_Curso\\Exercicios3\\Ex3_3\\Program.cs",
+              "RelativeDocumentMoniker": "Ex3_3\\Program.cs",
+              "ToolTip": "C:\\Users\\Johns\\Desktop\\C#_Curso\\Exercicios3\\Ex3_3\\Program.cs",
+              "RelativeToolTip": "Ex3_3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T12:44:22.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Johns\\Desktop\\C#_Curso\\Exercicios3\\Exercicios3\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicios3\\Program.cs",
+              "ToolTip": "C:\\Users\\Johns\\Desktop\\C#_Curso\\Exercicios3\\Exercicios3\\Program.cs",
+              "RelativeToolTip": "Exercicios3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T12:36:49.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Johns\\Desktop\\C#_Curso\\Exercicios3\\Ex3_2\\Program.cs",
+              "RelativeDocumentMoniker": "Ex3_2\\Program.cs",
+              "ToolTip": "C:\\Users\\Johns\\Desktop\\C#_Curso\\Exercicios3\\Ex3_2\\Program.cs",
+              "RelativeToolTip": "Ex3_2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T12:36:47.89Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

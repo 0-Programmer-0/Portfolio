@@ -1,0 +1,14 @@
+C:\Users\Johns\Desktop\C#_Curso\Ex2_1\Ex2_3\bin\Debug\net8.0\Ex2_3.exe
+C:\Users\Johns\Desktop\C#_Curso\Ex2_1\Ex2_3\bin\Debug\net8.0\Ex2_3.deps.json
+C:\Users\Johns\Desktop\C#_Curso\Ex2_1\Ex2_3\bin\Debug\net8.0\Ex2_3.runtimeconfig.json
+C:\Users\Johns\Desktop\C#_Curso\Ex2_1\Ex2_3\bin\Debug\net8.0\Ex2_3.dll
+C:\Users\Johns\Desktop\C#_Curso\Ex2_1\Ex2_3\bin\Debug\net8.0\Ex2_3.pdb
+C:\Users\Johns\Desktop\C#_Curso\Ex2_1\Ex2_3\obj\Debug\net8.0\Ex2_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johns\Desktop\C#_Curso\Ex2_1\Ex2_3\obj\Debug\net8.0\Ex2_3.AssemblyInfoInputs.cache
+C:\Users\Johns\Desktop\C#_Curso\Ex2_1\Ex2_3\obj\Debug\net8.0\Ex2_3.AssemblyInfo.cs
+C:\Users\Johns\Desktop\C#_Curso\Ex2_1\Ex2_3\obj\Debug\net8.0\Ex2_3.csproj.CoreCompileInputs.cache
+C:\Users\Johns\Desktop\C#_Curso\Ex2_1\Ex2_3\obj\Debug\net8.0\Ex2_3.dll
+C:\Users\Johns\Desktop\C#_Curso\Ex2_1\Ex2_3\obj\Debug\net8.0\refint\Ex2_3.dll
+C:\Users\Johns\Desktop\C#_Curso\Ex2_1\Ex2_3\obj\Debug\net8.0\Ex2_3.pdb
+C:\Users\Johns\Desktop\C#_Curso\Ex2_1\Ex2_3\obj\Debug\net8.0\Ex2_3.genruntimeconfig.cache
+C:\Users\Johns\Desktop\C#_Curso\Ex2_1\Ex2_3\obj\Debug\net8.0\ref\Ex2_3.dll

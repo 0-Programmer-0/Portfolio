@@ -1,0 +1,14 @@
+C:\Users\Johns\Desktop\C#_Curso\InputDados\InputDados\bin\Debug\net8.0\InputDados.exe
+C:\Users\Johns\Desktop\C#_Curso\InputDados\InputDados\bin\Debug\net8.0\InputDados.deps.json
+C:\Users\Johns\Desktop\C#_Curso\InputDados\InputDados\bin\Debug\net8.0\InputDados.runtimeconfig.json
+C:\Users\Johns\Desktop\C#_Curso\InputDados\InputDados\bin\Debug\net8.0\InputDados.dll
+C:\Users\Johns\Desktop\C#_Curso\InputDados\InputDados\bin\Debug\net8.0\InputDados.pdb
+C:\Users\Johns\Desktop\C#_Curso\InputDados\InputDados\obj\Debug\net8.0\InputDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johns\Desktop\C#_Curso\InputDados\InputDados\obj\Debug\net8.0\InputDados.AssemblyInfoInputs.cache
+C:\Users\Johns\Desktop\C#_Curso\InputDados\InputDados\obj\Debug\net8.0\InputDados.AssemblyInfo.cs
+C:\Users\Johns\Desktop\C#_Curso\InputDados\InputDados\obj\Debug\net8.0\InputDados.csproj.CoreCompileInputs.cache
+C:\Users\Johns\Desktop\C#_Curso\InputDados\InputDados\obj\Debug\net8.0\InputDados.dll
+C:\Users\Johns\Desktop\C#_Curso\InputDados\InputDados\obj\Debug\net8.0\refint\InputDados.dll
+C:\Users\Johns\Desktop\C#_Curso\InputDados\InputDados\obj\Debug\net8.0\InputDados.pdb
+C:\Users\Johns\Desktop\C#_Curso\InputDados\InputDados\obj\Debug\net8.0\InputDados.genruntimeconfig.cache
+C:\Users\Johns\Desktop\C#_Curso\InputDados\InputDados\obj\Debug\net8.0\ref\InputDados.dll

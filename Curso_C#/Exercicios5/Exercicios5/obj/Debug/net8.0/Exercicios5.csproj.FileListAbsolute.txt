@@ -1,0 +1,14 @@
+C:\Users\Johns\Desktop\C#_Curso\Exercicios5\Exercicios5\bin\Debug\net8.0\Exercicios5.exe
+C:\Users\Johns\Desktop\C#_Curso\Exercicios5\Exercicios5\bin\Debug\net8.0\Exercicios5.deps.json
+C:\Users\Johns\Desktop\C#_Curso\Exercicios5\Exercicios5\bin\Debug\net8.0\Exercicios5.runtimeconfig.json
+C:\Users\Johns\Desktop\C#_Curso\Exercicios5\Exercicios5\bin\Debug\net8.0\Exercicios5.dll
+C:\Users\Johns\Desktop\C#_Curso\Exercicios5\Exercicios5\bin\Debug\net8.0\Exercicios5.pdb
+C:\Users\Johns\Desktop\C#_Curso\Exercicios5\Exercicios5\obj\Debug\net8.0\Exercicios5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johns\Desktop\C#_Curso\Exercicios5\Exercicios5\obj\Debug\net8.0\Exercicios5.AssemblyInfoInputs.cache
+C:\Users\Johns\Desktop\C#_Curso\Exercicios5\Exercicios5\obj\Debug\net8.0\Exercicios5.AssemblyInfo.cs
+C:\Users\Johns\Desktop\C#_Curso\Exercicios5\Exercicios5\obj\Debug\net8.0\Exercicios5.csproj.CoreCompileInputs.cache
+C:\Users\Johns\Desktop\C#_Curso\Exercicios5\Exercicios5\obj\Debug\net8.0\Exercicios5.dll
+C:\Users\Johns\Desktop\C#_Curso\Exercicios5\Exercicios5\obj\Debug\net8.0\refint\Exercicios5.dll
+C:\Users\Johns\Desktop\C#_Curso\Exercicios5\Exercicios5\obj\Debug\net8.0\Exercicios5.pdb
+C:\Users\Johns\Desktop\C#_Curso\Exercicios5\Exercicios5\obj\Debug\net8.0\Exercicios5.genruntimeconfig.cache
+C:\Users\Johns\Desktop\C#_Curso\Exercicios5\Exercicios5\obj\Debug\net8.0\ref\Exercicios5.dll

@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Johns\\Desktop\\C#_Curso\\Ex2_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02D8AE76-1576-44CB-8A00-AAD9B5D2F41F}|Ex2_2\\Ex2_2.csproj|c:\\users\\johns\\desktop\\c#_curso\\ex2_1\\ex2_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D8AE76-1576-44CB-8A00-AAD9B5D2F41F}|Ex2_2\\Ex2_2.csproj|solutionrelative:ex2_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273B0BC2-CFEF-4742-AD7D-DC4253BEF1C7}|Ex2_8\\Ex2_8.csproj|c:\\users\\johns\\desktop\\c#_curso\\ex2_1\\ex2_8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{273B0BC2-CFEF-4742-AD7D-DC4253BEF1C7}|Ex2_8\\Ex2_8.csproj|solutionrelative:ex2_8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{739C3751-3B20-4202-9144-4D7EE85511B9}|Ex2_7\\Ex2_7.csproj|c:\\users\\johns\\desktop\\c#_curso\\ex2_1\\ex2_7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{739C3751-3B20-4202-9144-4D7EE85511B9}|Ex2_7\\Ex2_7.csproj|solutionrelative:ex2_7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Johns\\Desktop\\C#_Curso\\Ex2_1\\Ex2_2\\Program.cs",
+              "RelativeDocumentMoniker": "Ex2_2\\Program.cs",
+              "ToolTip": "C:\\Users\\Johns\\Desktop\\C#_Curso\\Ex2_1\\Ex2_2\\Program.cs",
+              "RelativeToolTip": "Ex2_2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T23:44:26.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Johns\\Desktop\\C#_Curso\\Ex2_1\\Ex2_8\\Program.cs",
+              "RelativeDocumentMoniker": "Ex2_8\\Program.cs",
+              "ToolTip": "C:\\Users\\Johns\\Desktop\\C#_Curso\\Ex2_1\\Ex2_8\\Program.cs",
+              "RelativeToolTip": "Ex2_8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T14:08:04.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Johns\\Desktop\\C#_Curso\\Ex2_1\\Ex2_7\\Program.cs",
+              "RelativeDocumentMoniker": "Ex2_7\\Program.cs",
+              "ToolTip": "C:\\Users\\Johns\\Desktop\\C#_Curso\\Ex2_1\\Ex2_7\\Program.cs",
+              "RelativeToolTip": "Ex2_7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T23:30:50.929Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

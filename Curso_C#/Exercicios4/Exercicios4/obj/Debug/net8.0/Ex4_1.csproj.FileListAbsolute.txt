@@ -1,0 +1,14 @@
+C:\Users\Johns\Desktop\C#_Curso\Exercicios4\Exercicios4\bin\Debug\net8.0\Ex4_1.exe
+C:\Users\Johns\Desktop\C#_Curso\Exercicios4\Exercicios4\bin\Debug\net8.0\Ex4_1.deps.json
+C:\Users\Johns\Desktop\C#_Curso\Exercicios4\Exercicios4\bin\Debug\net8.0\Ex4_1.runtimeconfig.json
+C:\Users\Johns\Desktop\C#_Curso\Exercicios4\Exercicios4\bin\Debug\net8.0\Ex4_1.dll
+C:\Users\Johns\Desktop\C#_Curso\Exercicios4\Exercicios4\bin\Debug\net8.0\Ex4_1.pdb
+C:\Users\Johns\Desktop\C#_Curso\Exercicios4\Exercicios4\obj\Debug\net8.0\Ex4_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johns\Desktop\C#_Curso\Exercicios4\Exercicios4\obj\Debug\net8.0\Ex4_1.AssemblyInfoInputs.cache
+C:\Users\Johns\Desktop\C#_Curso\Exercicios4\Exercicios4\obj\Debug\net8.0\Ex4_1.AssemblyInfo.cs
+C:\Users\Johns\Desktop\C#_Curso\Exercicios4\Exercicios4\obj\Debug\net8.0\Ex4_1.csproj.CoreCompileInputs.cache
+C:\Users\Johns\Desktop\C#_Curso\Exercicios4\Exercicios4\obj\Debug\net8.0\Ex4_1.dll
+C:\Users\Johns\Desktop\C#_Curso\Exercicios4\Exercicios4\obj\Debug\net8.0\refint\Ex4_1.dll
+C:\Users\Johns\Desktop\C#_Curso\Exercicios4\Exercicios4\obj\Debug\net8.0\Ex4_1.pdb
+C:\Users\Johns\Desktop\C#_Curso\Exercicios4\Exercicios4\obj\Debug\net8.0\Ex4_1.genruntimeconfig.cache
+C:\Users\Johns\Desktop\C#_Curso\Exercicios4\Exercicios4\obj\Debug\net8.0\ref\Ex4_1.dll

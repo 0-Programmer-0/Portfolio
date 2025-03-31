@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Johns\\Desktop\\C#_Curso\\Exercicios5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D08D659-E6D8-42CF-A6B3-52C828A9913D}|Exercicios5\\Exercicios5.csproj|c:\\users\\johns\\desktop\\c#_curso\\exercicios5\\exercicios5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D08D659-E6D8-42CF-A6B3-52C828A9913D}|Exercicios5\\Exercicios5.csproj|solutionrelative:exercicios5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D08D659-E6D8-42CF-A6B3-52C828A9913D}|Exercicios5\\Exercicios5.csproj|c:\\users\\johns\\desktop\\c#_curso\\exercicios5\\exercicios5\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D08D659-E6D8-42CF-A6B3-52C828A9913D}|Exercicios5\\Exercicios5.csproj|solutionrelative:exercicios5\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\Johns\\Desktop\\C#_Curso\\Exercicios5\\Exercicios5\\Aluno.cs",
+              "RelativeDocumentMoniker": "Exercicios5\\Aluno.cs",
+              "ToolTip": "C:\\Users\\Johns\\Desktop\\C#_Curso\\Exercicios5\\Exercicios5\\Aluno.cs",
+              "RelativeToolTip": "Exercicios5\\Aluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T14:25:43.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Johns\\Desktop\\C#_Curso\\Exercicios5\\Exercicios5\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicios5\\Program.cs",
+              "ToolTip": "C:\\Users\\Johns\\Desktop\\C#_Curso\\Exercicios5\\Exercicios5\\Program.cs",
+              "RelativeToolTip": "Exercicios5\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwDIAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T13:45:02.806Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

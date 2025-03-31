@@ -1,0 +1,14 @@
+C:\Users\Johns\Desktop\C#_Curso\ConversaoCasting\ConversaoCasting\bin\Debug\net8.0\ConversaoCasting.exe
+C:\Users\Johns\Desktop\C#_Curso\ConversaoCasting\ConversaoCasting\bin\Debug\net8.0\ConversaoCasting.deps.json
+C:\Users\Johns\Desktop\C#_Curso\ConversaoCasting\ConversaoCasting\bin\Debug\net8.0\ConversaoCasting.runtimeconfig.json
+C:\Users\Johns\Desktop\C#_Curso\ConversaoCasting\ConversaoCasting\bin\Debug\net8.0\ConversaoCasting.dll
+C:\Users\Johns\Desktop\C#_Curso\ConversaoCasting\ConversaoCasting\bin\Debug\net8.0\ConversaoCasting.pdb
+C:\Users\Johns\Desktop\C#_Curso\ConversaoCasting\ConversaoCasting\obj\Debug\net8.0\ConversaoCasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johns\Desktop\C#_Curso\ConversaoCasting\ConversaoCasting\obj\Debug\net8.0\ConversaoCasting.AssemblyInfoInputs.cache
+C:\Users\Johns\Desktop\C#_Curso\ConversaoCasting\ConversaoCasting\obj\Debug\net8.0\ConversaoCasting.AssemblyInfo.cs
+C:\Users\Johns\Desktop\C#_Curso\ConversaoCasting\ConversaoCasting\obj\Debug\net8.0\ConversaoCasting.csproj.CoreCompileInputs.cache
+C:\Users\Johns\Desktop\C#_Curso\ConversaoCasting\ConversaoCasting\obj\Debug\net8.0\ConversaoCasting.dll
+C:\Users\Johns\Desktop\C#_Curso\ConversaoCasting\ConversaoCasting\obj\Debug\net8.0\refint\ConversaoCasting.dll
+C:\Users\Johns\Desktop\C#_Curso\ConversaoCasting\ConversaoCasting\obj\Debug\net8.0\ConversaoCasting.pdb
+C:\Users\Johns\Desktop\C#_Curso\ConversaoCasting\ConversaoCasting\obj\Debug\net8.0\ConversaoCasting.genruntimeconfig.cache
+C:\Users\Johns\Desktop\C#_Curso\ConversaoCasting\ConversaoCasting\obj\Debug\net8.0\ref\ConversaoCasting.dll
