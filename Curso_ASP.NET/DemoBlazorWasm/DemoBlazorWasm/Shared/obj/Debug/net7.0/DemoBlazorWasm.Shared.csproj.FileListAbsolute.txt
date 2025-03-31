@@ -1,0 +1,11 @@
+C:\Users\Johns\Documents\Curso_ASP.NET\DemoBlazorWasm\DemoBlazorWasm\Shared\bin\Debug\net7.0\DemoBlazorWasm.Shared.deps.json
+C:\Users\Johns\Documents\Curso_ASP.NET\DemoBlazorWasm\DemoBlazorWasm\Shared\bin\Debug\net7.0\DemoBlazorWasm.Shared.dll
+C:\Users\Johns\Documents\Curso_ASP.NET\DemoBlazorWasm\DemoBlazorWasm\Shared\bin\Debug\net7.0\DemoBlazorWasm.Shared.pdb
+C:\Users\Johns\Documents\Curso_ASP.NET\DemoBlazorWasm\DemoBlazorWasm\Shared\obj\Debug\net7.0\DemoBlazorWasm.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johns\Documents\Curso_ASP.NET\DemoBlazorWasm\DemoBlazorWasm\Shared\obj\Debug\net7.0\DemoBlazorWasm.Shared.AssemblyInfoInputs.cache
+C:\Users\Johns\Documents\Curso_ASP.NET\DemoBlazorWasm\DemoBlazorWasm\Shared\obj\Debug\net7.0\DemoBlazorWasm.Shared.AssemblyInfo.cs
+C:\Users\Johns\Documents\Curso_ASP.NET\DemoBlazorWasm\DemoBlazorWasm\Shared\obj\Debug\net7.0\DemoBlazorWasm.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Johns\Documents\Curso_ASP.NET\DemoBlazorWasm\DemoBlazorWasm\Shared\obj\Debug\net7.0\DemoBlazorWasm.Shared.dll
+C:\Users\Johns\Documents\Curso_ASP.NET\DemoBlazorWasm\DemoBlazorWasm\Shared\obj\Debug\net7.0\refint\DemoBlazorWasm.Shared.dll
+C:\Users\Johns\Documents\Curso_ASP.NET\DemoBlazorWasm\DemoBlazorWasm\Shared\obj\Debug\net7.0\DemoBlazorWasm.Shared.pdb
+C:\Users\Johns\Documents\Curso_ASP.NET\DemoBlazorWasm\DemoBlazorWasm\Shared\obj\Debug\net7.0\ref\DemoBlazorWasm.Shared.dll

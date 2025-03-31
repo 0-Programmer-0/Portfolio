@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Johns\\Documents\\Curso_ASP.NET\\DemoRazorPages\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C0D49C-BAE1-4D00-9723-98AB4645812D}|DemoRazorPages\\DemoRazorPages.csproj|c:\\users\\johns\\documents\\curso_asp.net\\demorazorpages\\demorazorpages\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6C0D49C-BAE1-4D00-9723-98AB4645812D}|DemoRazorPages\\DemoRazorPages.csproj|solutionrelative:demorazorpages\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Johns\\Documents\\Curso_ASP.NET\\DemoRazorPages\\DemoRazorPages\\Migrations\\20250331161435_Alunos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DemoRazorPages\\Migrations\\20250331161435_Alunos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C0D49C-BAE1-4D00-9723-98AB4645812D}|DemoRazorPages\\DemoRazorPages.csproj|c:\\users\\johns\\documents\\curso_asp.net\\demorazorpages\\demorazorpages\\pages\\alunos\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C0D49C-BAE1-4D00-9723-98AB4645812D}|DemoRazorPages\\DemoRazorPages.csproj|solutionrelative:demorazorpages\\pages\\alunos\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C0D49C-BAE1-4D00-9723-98AB4645812D}|DemoRazorPages\\DemoRazorPages.csproj|c:\\users\\johns\\documents\\curso_asp.net\\demorazorpages\\demorazorpages\\pages\\alunos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6C0D49C-BAE1-4D00-9723-98AB4645812D}|DemoRazorPages\\DemoRazorPages.csproj|solutionrelative:demorazorpages\\pages\\alunos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C0D49C-BAE1-4D00-9723-98AB4645812D}|DemoRazorPages\\DemoRazorPages.csproj|c:\\users\\johns\\documents\\curso_asp.net\\demorazorpages\\demorazorpages\\pages\\alunos\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C0D49C-BAE1-4D00-9723-98AB4645812D}|DemoRazorPages\\DemoRazorPages.csproj|solutionrelative:demorazorpages\\pages\\alunos\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C0D49C-BAE1-4D00-9723-98AB4645812D}|DemoRazorPages\\DemoRazorPages.csproj|c:\\users\\johns\\documents\\curso_asp.net\\demorazorpages\\demorazorpages\\pages\\alunos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6C0D49C-BAE1-4D00-9723-98AB4645812D}|DemoRazorPages\\DemoRazorPages.csproj|solutionrelative:demorazorpages\\pages\\alunos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C0D49C-BAE1-4D00-9723-98AB4645812D}|DemoRazorPages\\DemoRazorPages.csproj|c:\\users\\johns\\documents\\curso_asp.net\\demorazorpages\\demorazorpages\\pages\\alunos\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C0D49C-BAE1-4D00-9723-98AB4645812D}|DemoRazorPages\\DemoRazorPages.csproj|solutionrelative:demorazorpages\\pages\\alunos\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C0D49C-BAE1-4D00-9723-98AB4645812D}|DemoRazorPages\\DemoRazorPages.csproj|c:\\users\\johns\\documents\\curso_asp.net\\demorazorpages\\demorazorpages\\pages\\alunos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6C0D49C-BAE1-4D00-9723-98AB4645812D}|DemoRazorPages\\DemoRazorPages.csproj|solutionrelative:demorazorpages\\pages\\alunos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C0D49C-BAE1-4D00-9723-98AB4645812D}|DemoRazorPages\\DemoRazorPages.csproj|c:\\users\\johns\\documents\\curso_asp.net\\demorazorpages\\demorazorpages\\pages\\alunos\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C0D49C-BAE1-4D00-9723-98AB4645812D}|DemoRazorPages\\DemoRazorPages.csproj|solutionrelative:demorazorpages\\pages\\alunos\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C0D49C-BAE1-4D00-9723-98AB4645812D}|DemoRazorPages\\DemoRazorPages.csproj|c:\\users\\johns\\documents\\curso_asp.net\\demorazorpages\\demorazorpages\\pages\\alunos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6C0D49C-BAE1-4D00-9723-98AB4645812D}|DemoRazorPages\\DemoRazorPages.csproj|solutionrelative:demorazorpages\\pages\\alunos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C0D49C-BAE1-4D00-9723-98AB4645812D}|DemoRazorPages\\DemoRazorPages.csproj|c:\\users\\johns\\documents\\curso_asp.net\\demorazorpages\\demorazorpages\\pages\\alunos\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C0D49C-BAE1-4D00-9723-98AB4645812D}|DemoRazorPages\\DemoRazorPages.csproj|solutionrelative:demorazorpages\\pages\\alunos\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C0D49C-BAE1-4D00-9723-98AB4645812D}|DemoRazorPages\\DemoRazorPages.csproj|c:\\users\\johns\\documents\\curso_asp.net\\demorazorpages\\demorazorpages\\pages\\alunos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6C0D49C-BAE1-4D00-9723-98AB4645812D}|DemoRazorPages\\DemoRazorPages.csproj|solutionrelative:demorazorpages\\pages\\alunos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C0D49C-BAE1-4D00-9723-98AB4645812D}|DemoRazorPages\\DemoRazorPages.csproj|c:\\users\\johns\\documents\\curso_asp.net\\demorazorpages\\demorazorpages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C0D49C-BAE1-4D00-9723-98AB4645812D}|DemoRazorPages\\DemoRazorPages.csproj|solutionrelative:demorazorpages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C0D49C-BAE1-4D00-9723-98AB4645812D}|DemoRazorPages\\DemoRazorPages.csproj|c:\\users\\johns\\documents\\curso_asp.net\\demorazorpages\\demorazorpages\\data\\demorazorpagescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C0D49C-BAE1-4D00-9723-98AB4645812D}|DemoRazorPages\\DemoRazorPages.csproj|solutionrelative:demorazorpages\\data\\demorazorpagescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C0D49C-BAE1-4D00-9723-98AB4645812D}|DemoRazorPages\\DemoRazorPages.csproj|c:\\users\\johns\\documents\\curso_asp.net\\demorazorpages\\demorazorpages\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C0D49C-BAE1-4D00-9723-98AB4645812D}|DemoRazorPages\\DemoRazorPages.csproj|solutionrelative:demorazorpages\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Johns\\Documents\\Curso_ASP.NET\\DemoRazorPages\\DemoRazorPages\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DemoRazorPages\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Johns\\Documents\\Curso_ASP.NET\\DemoRazorPages\\DemoRazorPages\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DemoRazorPages\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T16:14:55.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250331161435_Alunos.cs",
+              "DocumentMoniker": "C:\\Users\\Johns\\Documents\\Curso_ASP.NET\\DemoRazorPages\\DemoRazorPages\\Migrations\\20250331161435_Alunos.cs",
+              "RelativeDocumentMoniker": "DemoRazorPages\\Migrations\\20250331161435_Alunos.cs",
+              "ToolTip": "C:\\Users\\Johns\\Documents\\Curso_ASP.NET\\DemoRazorPages\\DemoRazorPages\\Migrations\\20250331161435_Alunos.cs",
+              "RelativeToolTip": "DemoRazorPages\\Migrations\\20250331161435_Alunos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T16:14:36.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Johns\\Documents\\Curso_ASP.NET\\DemoRazorPages\\DemoRazorPages\\Pages\\Alunos\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "DemoRazorPages\\Pages\\Alunos\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Johns\\Documents\\Curso_ASP.NET\\DemoRazorPages\\DemoRazorPages\\Pages\\Alunos\\Index.cshtml.cs",
+              "RelativeToolTip": "DemoRazorPages\\Pages\\Alunos\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T16:13:02.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Johns\\Documents\\Curso_ASP.NET\\DemoRazorPages\\DemoRazorPages\\Pages\\Alunos\\Index.cshtml",
+              "RelativeDocumentMoniker": "DemoRazorPages\\Pages\\Alunos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Johns\\Documents\\Curso_ASP.NET\\DemoRazorPages\\DemoRazorPages\\Pages\\Alunos\\Index.cshtml",
+              "RelativeToolTip": "DemoRazorPages\\Pages\\Alunos\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T16:13:02.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Johns\\Documents\\Curso_ASP.NET\\DemoRazorPages\\DemoRazorPages\\Pages\\Alunos\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "DemoRazorPages\\Pages\\Alunos\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\Johns\\Documents\\Curso_ASP.NET\\DemoRazorPages\\DemoRazorPages\\Pages\\Alunos\\Delete.cshtml.cs",
+              "RelativeToolTip": "DemoRazorPages\\Pages\\Alunos\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T16:13:02.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Johns\\Documents\\Curso_ASP.NET\\DemoRazorPages\\DemoRazorPages\\Pages\\Alunos\\Delete.cshtml",
+              "RelativeDocumentMoniker": "DemoRazorPages\\Pages\\Alunos\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Johns\\Documents\\Curso_ASP.NET\\DemoRazorPages\\DemoRazorPages\\Pages\\Alunos\\Delete.cshtml",
+              "RelativeToolTip": "DemoRazorPages\\Pages\\Alunos\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T16:13:02.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Johns\\Documents\\Curso_ASP.NET\\DemoRazorPages\\DemoRazorPages\\Pages\\Alunos\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "DemoRazorPages\\Pages\\Alunos\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\Johns\\Documents\\Curso_ASP.NET\\DemoRazorPages\\DemoRazorPages\\Pages\\Alunos\\Details.cshtml.cs",
+              "RelativeToolTip": "DemoRazorPages\\Pages\\Alunos\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T16:13:02.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Johns\\Documents\\Curso_ASP.NET\\DemoRazorPages\\DemoRazorPages\\Pages\\Alunos\\Details.cshtml",
+              "RelativeDocumentMoniker": "DemoRazorPages\\Pages\\Alunos\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Johns\\Documents\\Curso_ASP.NET\\DemoRazorPages\\DemoRazorPages\\Pages\\Alunos\\Details.cshtml",
+              "RelativeToolTip": "DemoRazorPages\\Pages\\Alunos\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T16:13:02.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Johns\\Documents\\Curso_ASP.NET\\DemoRazorPages\\DemoRazorPages\\Pages\\Alunos\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "DemoRazorPages\\Pages\\Alunos\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\Johns\\Documents\\Curso_ASP.NET\\DemoRazorPages\\DemoRazorPages\\Pages\\Alunos\\Edit.cshtml.cs",
+              "RelativeToolTip": "DemoRazorPages\\Pages\\Alunos\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T16:13:02.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Johns\\Documents\\Curso_ASP.NET\\DemoRazorPages\\DemoRazorPages\\Pages\\Alunos\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DemoRazorPages\\Pages\\Alunos\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Johns\\Documents\\Curso_ASP.NET\\DemoRazorPages\\DemoRazorPages\\Pages\\Alunos\\Edit.cshtml",
+              "RelativeToolTip": "DemoRazorPages\\Pages\\Alunos\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T16:13:02.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Johns\\Documents\\Curso_ASP.NET\\DemoRazorPages\\DemoRazorPages\\Pages\\Alunos\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "DemoRazorPages\\Pages\\Alunos\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\Johns\\Documents\\Curso_ASP.NET\\DemoRazorPages\\DemoRazorPages\\Pages\\Alunos\\Create.cshtml.cs",
+              "RelativeToolTip": "DemoRazorPages\\Pages\\Alunos\\Create.cshtml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T16:13:02.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Johns\\Documents\\Curso_ASP.NET\\DemoRazorPages\\DemoRazorPages\\Pages\\Alunos\\Create.cshtml",
+              "RelativeDocumentMoniker": "DemoRazorPages\\Pages\\Alunos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Johns\\Documents\\Curso_ASP.NET\\DemoRazorPages\\DemoRazorPages\\Pages\\Alunos\\Create.cshtml",
+              "RelativeToolTip": "DemoRazorPages\\Pages\\Alunos\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T16:13:01.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Johns\\Documents\\Curso_ASP.NET\\DemoRazorPages\\DemoRazorPages\\Program.cs",
+              "RelativeDocumentMoniker": "DemoRazorPages\\Program.cs",
+              "ToolTip": "C:\\Users\\Johns\\Documents\\Curso_ASP.NET\\DemoRazorPages\\DemoRazorPages\\Program.cs",
+              "RelativeToolTip": "DemoRazorPages\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T16:13:01.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DemoRazorPagesContext.cs",
+              "DocumentMoniker": "C:\\Users\\Johns\\Documents\\Curso_ASP.NET\\DemoRazorPages\\DemoRazorPages\\Data\\DemoRazorPagesContext.cs",
+              "RelativeDocumentMoniker": "DemoRazorPages\\Data\\DemoRazorPagesContext.cs",
+              "ToolTip": "C:\\Users\\Johns\\Documents\\Curso_ASP.NET\\DemoRazorPages\\DemoRazorPages\\Data\\DemoRazorPagesContext.cs",
+              "RelativeToolTip": "DemoRazorPages\\Data\\DemoRazorPagesContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T16:13:01.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\Johns\\Documents\\Curso_ASP.NET\\DemoRazorPages\\DemoRazorPages\\Models\\Aluno.cs",
+              "RelativeDocumentMoniker": "DemoRazorPages\\Models\\Aluno.cs",
+              "ToolTip": "C:\\Users\\Johns\\Documents\\Curso_ASP.NET\\DemoRazorPages\\DemoRazorPages\\Models\\Aluno.cs",
+              "RelativeToolTip": "DemoRazorPages\\Models\\Aluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T16:11:40.974Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

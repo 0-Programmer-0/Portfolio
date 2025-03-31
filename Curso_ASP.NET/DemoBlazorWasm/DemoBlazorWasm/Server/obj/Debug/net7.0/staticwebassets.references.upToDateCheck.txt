@@ -1,0 +1,1 @@
+C:\Users\Johns\Documents\Curso_ASP.NET\DemoBlazorWasm\DemoBlazorWasm\Client\obj\Debug\net7.0\staticwebassets.build.json
