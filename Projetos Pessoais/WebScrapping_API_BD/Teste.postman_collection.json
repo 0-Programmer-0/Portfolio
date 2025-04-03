@@ -1,0 +1,38 @@
+{
+	"info": {
+		"_postman_id": "124931de-46db-40c3-8999-ea4ea63613e9",
+		"name": "IntuitiveCare",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "26834941"
+	},
+	"item": [
+		{
+			"name": "API Operadoras",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://127.0.0.1:8000/buscar?nome=alice",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "8000",
+					"path": [
+						"buscar"
+					],
+					"query": [
+						{
+							"key": "nome",
+							"value": "alice"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

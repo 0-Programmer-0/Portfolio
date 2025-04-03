@@ -1,0 +1,5 @@
+br\edu\fesa\transformdados\ExcelScraper.class
+br\edu\fesa\transformdados\TransformDados.class
+br\edu\fesa\transformdados\Arquivo.class
+br\edu\fesa\transformdados\ExcelScraper$1.class
+br\edu\fesa\transformdados\WebScraper.class
