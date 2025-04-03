@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/Html.html to edit this template
+-->
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Simulador de Canal de Comunicações</title>
+        <!-- Inclui os links para os arquivos Bootstrap CSS e JS -->
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap"></script>
+        <link rel="stylesheet" href="css/style.css">
+        <script src="js/scripts.js"></script>
+    </head>
+
+    <header>
+        <nav id="navBar" class="navbar navbar-expand-lg navbar-dark fixed-top">
+            <a class="navbar-brand" href="#">Simulador de Canal de Comunicações</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+                    aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="menu.html">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="home.html">Simulador</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="sobre.html">Sobre</a>
+                    </li> 
+                    <li class="nav-item">
+                        <a class="nav-link" id="toggle-mode">Alternar Modo</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+
+    <body>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <img style="width: 165px; height: 151px; margin-left: 45.5%" src="img/logo1.png" alt="AllKwanza"/>      
+        <br>
+        <br>
+        <div class="container mt-5">
+            <form action="OndaController" method="post">
+                <div class="row ajusteCampos">
+                    <div class="col-4 form-group ajusteCampos">
+                        <label for="tipoSinal">Escolha o tipo de sinal:</label>
+                        <select class="form-control" id="tipoSinal" name="tipoSinal">
+                            <option value="senoidalRetificada">Onda senoidal retificada</option>
+                            <option value="quadrada">Onda quadrada</option>
+                            <option value="triangular">Onda triangular</option>
+                            <option value="denteDeSerra">Onda dente-de-serra</option>                          
+                        </select>
+                    </div>
+
+                    <div class="col-4 form-group ajusteCampos">
+                        <label for="frequenciaFundamental">Frequência fundamental (kHz):</label>
+                        <input type="number" class="form-control" id="freqFundamental"
+                               name="freqFundamental" min="1" max="100">
+                    </div>
+
+                </div>
+
+                <div class="row ajusteCampos">
+                    <div class="col-4 form-group ajusteCampos" id="campoTipoCanal">
+                        <label for="tipoCanal">Escolha o tipo de canal:</label>
+                        <select class="form-control" id="tipoCanal" name="tipoCanal" onchange="habilitaFreqCorteInferior(this);">
+                            <option value="passaBaixas">Canal Passa-Baixas</option>
+                            <option id="admOption" value="passaFaixas">Canal Passa-Faixas</option>
+                        </select>
+                    </div>
+
+                    <div class="col-4 form-group ajusteCampos" id="campofreqCorteSuperior">
+                        <label for="frequenciaCorte2" id="lblFreqCorteSuperior">Frequência de corte (kHz):</label>
+                        <input type="number" class="form-control" id="freqCorteSuperior" name="freqCorteSuperior" min="1"
+                               max="100">
+                    </div>
+
+                    <div class="col-4 form-group ajusteCampos" id="campoFreqCorteInferior" style="display:none;">
+                        <label for="frequenciaCorte1">Frequência de corte inferior (kHz):</label>
+                        <input type="number" class="form-control" id="freqCorteInferior" name="freqCorteInferior" min="1"
+                               max="100">
+                    </div>
+                </div>
+
+                <br>
+                <button type="submit" class="row botaoSimular" id="botaoSimular">Simular</button>
+            </form>
+
+            <div id="graficoOnda"></div>
+
+            <br>
+        </div>
+    </body>
+    <script>
+        //campos de input
+        var freqFundamental = document.getElementById("freqFundamental");
+        var freqCorteSuperior = document.getElementById("freqFundamental");
+        var freqCorteInferior = document.getElementById("freqFundamental");
+        var tipoCanal = document.getElementById("tipoCanal");
+
+        var campoFreqCorteInferior = document.getElementById("campoFreqCorteInferior");
+        var labelFreqCorteSup = document.getElementById("lblFreqCorteSuperior");
+        var campoTipoCanal = document.getElementById("campoTipoCanal");
+
+        function habilitaFreqCorteInferior(canal) {
+            if (canal.value === "passaFaixas") {
+                labelFreqCorteSup.textContent = "Frequência de corte superior (kHz):";
+                campoFreqCorteInferior.style.display = "block";
+            } else {
+                labelFreqCorteSup.textContent = "Frequência de corte (kHz):";
+                campoFreqCorteInferior.style.display = "none";
+            }
+        }
+    </script>
+    <footer id="navBar" class="footer text-white text-center fixed-bottom">
+        © 2024 Simulador de Canal de Comunicações
+    </footer>
+</html>
