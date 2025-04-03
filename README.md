@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Sou um entusiasta da tecnologia e estudante de Engenharia de Computação, atualmente explorando diversas áreas da computação, com foco em Inteligência Artificial, Visão Computacional, Desenvolvimento Web e Software.
+Sou um entusiasta da tecnologia e uma pessoa curiosa, sempre em busca de aprender e explorar novas ideias. Como estudante de Engenharia de Computação, estou constantemente expandindo meus conhecimentos em Inteligência Artificial, Visão Computacional e Desenvolvimento Web. Acredito que a tecnologia é um campo infinito de possibilidades e gosto de transformar teoria em prática por meio de projetos e experimentos.
 
 ## O que você encontrará aqui
 
@@ -16,10 +16,8 @@ Trabalhos acadêmicos: projetos e pesquisas relacionados à minha graduação.
 
 ## Conecte-se comigo
 
-Sinta-se à vontade para me contatar ou trocar ideias!
+LinkedIn: [Meu perfil](https://www.linkedin.com/in/joao-antonio-de-brito-moraes)
 
-LinkedIn: Meu perfil
+E-mail: jmoraes2003@hotmail.com
 
-E-mail: seuemail@exemplo.com
-
-Caso tenha interesse em algum projeto ou queira colaborar, fique à vontade para abrir uma issue ou contribuir! 😃
+Estou sempre aberto a novas conexões e oportunidades de aprendizado. Se tiver sugestões, feedback ou quiser trocar experiências sobre tecnologia, entre em contato! 😃
