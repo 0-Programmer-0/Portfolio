@@ -18,6 +18,6 @@ Trabalhos acadêmicos: projetos e pesquisas relacionados à minha graduação.
 
 [Acesse meu LinkedIn](https://www.linkedin.com/in/joao-antonio-de-brito-moraes) 💼
 
-[Mande um E-mail](jmoraes2003@hotmail.com) ✉
+E-mail: jmoraes2003@hotmail.com ✉
 
 Estou sempre aberto a novas conexões e oportunidades de aprendizado. Se tiver sugestões, feedback ou quiser trocar experiências sobre tecnologia, entre em contato! 😃
