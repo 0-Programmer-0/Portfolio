@@ -1,6 +1,6 @@
-## Olá, seja bem-vindo ao meu portfólio no GitHub!
+# Olá, seja bem-vindo ao meu portfólio no GitHub!
 
-# Sobre mim
+## Sobre mim
 
 Sou um entusiasta da tecnologia e estudante de Engenharia de Computação, atualmente explorando diversas áreas da computação, com foco em Inteligência Artificial, Visão Computacional, Desenvolvimento Web e Software.
 
